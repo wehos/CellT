@@ -4,4 +4,4 @@ This is the official github repo for paper **Single Cells Are Spatial Tokens: Tr
 ## Data Avalability
 Preprocessed data will be provided in this repo after official release of the paper.
 
-*Acknowledgement: Some impelementations in this Repo are based on GraphMAE and scBERT*
+*Acknowledgement: Some impelementations in this Repo are based on [https://arxiv.org/abs/2205.10803](GraphMAE) and [https://github.com/TencentAILabHealthcare/scBERT](scBERT)*
